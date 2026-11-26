@@ -1,0 +1,10 @@
+h1{
+    position: relative;
+    text-align: center;
+    display: flex;
+    padding: left 0%;x: 10px;
+    border: 20px;
+    height: 30px;
+    width: 50%;
+    background-color: lightblue;
+}

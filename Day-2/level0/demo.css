@@ -1,0 +1,35 @@
+*{
+    text-align: center;
+    background-color: aqua;
+
+}
+h1{
+     font-style: italic;
+     color: aliceblue;
+
+}
+    #X1{
+        height: 30px;
+        width: 40px;
+        padding: 15px;
+        border: 5px solid black;
+        border-radius: 20px;
+        color: green;
+        position: relative;
+        justify-content: center;
+        display: flex;
+        text-align: center;
+        align-items: center;
+        margin: 0 auto;
+
+    }
+button{
+    border: 2px solid black;
+    background-color: aliceblue;
+    border-radius: 15px;
+    height: 30px;
+    width: 65px;
+    font-size: larger;
+    font-style: italic;
+}
+

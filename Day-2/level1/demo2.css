@@ -1,0 +1,25 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: aqua; 
+    color: aliceblue;
+}
+h1,p,pre{
+    text-align: center;
+    text-transform: capitalize;
+    color: black;
+}
+#head2{
+    color: black;
+    text-transform: uppercase;
+    line-height: 30px;
+}
+#outer{
+    font-size:50px;
+    color: black;
+}
+#inner{
+    font-size: 10px;
+}

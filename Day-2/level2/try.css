@@ -1,0 +1,21 @@
+.container{
+    height: 400px;
+    width: 350px;
+    border: 2px solid black;
+    padding-top: 25px;
+    text-align: left;
+    background-color: pink;
+    color: aliceblue;
+}
+body{
+  display: flex;
+  padding-top: 10%;
+  justify-content: center;
+}
+h1{
+    margin-bottom: 15px;
+    display: flex;
+    padding-top: 10px;
+    justify-content: center;
+    
+}
